@@ -2,7 +2,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 
 
-class container extends StatelessWidget{
+class CustomContainer extends StatelessWidget{
   Color backgroundcolor=Color(Random().nextInt(0xffffffff));
 
   @override

@@ -8,7 +8,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  List<Widget> adds=[container(),container()];
+  List<Widget> adds=[CustomContainer(),CustomContainer()];
   List<Widget> swap(List<Widget> iso)
   {
     Widget x=iso[0];
