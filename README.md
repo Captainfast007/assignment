@@ -4,9 +4,9 @@
 - These containers have background color generated randomly once the app is hot reloaded or app restart.
 
 ## Screenshot
-![WhatsApp Image 2022-07-02 at 2 50 57 PM](https://user-images.githubusercontent.com/97168053/176994985-7bdb4a5d-8304-41fd-8e1b-2ac3af566b44.jpeg)
+![WhatsApp Image 2022-07-02 at 2 50 57 PM](https://user-images.githubusercontent.com/97168053/176994985-7bdb4a5d-8304-41fd-8e1b-2ac3af566b44.jpeg) ![WhatsApp Image 2022-07-02 at 2 52 08 PM](https://user-images.githubusercontent.com/97168053/176994995-65f82767-ec2e-4fee-b96b-e38fc3fb5f91.jpeg)
 
-![WhatsApp Image 2022-07-02 at 2 52 08 PM](https://user-images.githubusercontent.com/97168053/176994995-65f82767-ec2e-4fee-b96b-e38fc3fb5f91.jpeg)
+
 
 
 ## Requirements
