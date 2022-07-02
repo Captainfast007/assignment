@@ -1,16 +1,22 @@
-# assignment007
+# Assignment007
+- This is a flutter app made according to the conditions given in assignment.
+- The container get swapped on pressing of the button.
+- These containers have background color generated randomly once the app is hot reloaded or app restart.
 
-A new Flutter project.
+## Screenshot
+![](../../../../Downloads/WhatsApp Image 2022-07-02 at 2.50.57 PM.jpeg)
 
-## Getting Started
+![](../../../../Downloads/WhatsApp Image 2022-07-02 at 2.52.08 PM.jpeg)
 
-This project is a starting point for a Flutter application.
+## Requirements
+- git
+- node
+- Emulator or physical device
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+- Clone this project ```git clone https://github.com/Captainfast007/assignment.git```
+- cd to assignment
+- Install dependencies 
+- Start the emulator 
+- Run the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
