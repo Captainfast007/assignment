@@ -15,7 +15,7 @@
 - Emulator or physical device
 
 ## Setup
-- Clone this project ```git clone https://github.com/Captainfast007/assignment.git```
+- Clone this project ```git clone [https://github.com/Captainfast007/assignment.git](https://github.com/Captainfast007/assignment.git)```
 - cd to assignment
 - Install dependencies 
 - Start the emulator 
