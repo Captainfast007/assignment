@@ -1,4 +1,4 @@
-import 'package:assignment007/Widgets/container.dart';
+import 'package:assignment007/Widgets/_CustomContainer.dart';
 import 'package:flutter/material.dart';
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key}) : super(key: key);
@@ -16,7 +16,7 @@ class _MyHomePageState extends State<MyHomePage> {
     iso[1]=x;
     return iso;
   }
-  void _incrementCounter() {
+  void changecon() {
     setState(() {
      adds=swap(adds);
     });
@@ -36,8 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
 
       floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
+        onPressed: changecon,
         child: const Icon(Icons.emoji_emotions_outlined,size: 25.0,),
       ),
     );
