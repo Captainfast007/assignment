@@ -11,7 +11,7 @@
 
 ## Requirements
 - git
-- node
+- flutter 
 - Emulator or physical device
 
 ## Setup
